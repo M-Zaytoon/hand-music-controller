@@ -1,0 +1,13 @@
+   # Android / Gradle
+   .gradle/
+   .idea/
+   .kotlin/
+   build/
+   *.iml
+   local.properties
+   captures/
+   # OS
+   .DS_Store
+   Thumbs.db
+   .externalNativeBuild/
+   .cxx/
